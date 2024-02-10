@@ -1,5 +1,7 @@
+
+<img src="banner.png">
 <h1 align="left">Hey 👋 !  My name is Rudraksha Kushwaha</h1>
-<img src=""
+
 
 ###
 
@@ -11,7 +13,7 @@
 
 ###
 
-<h3 align="left">PRGRAMMING LANGUAGES</h3>
+<h3 align="left">PRGRAMMING LANGUAGES:</h3>
 
 ###
 
@@ -29,7 +31,7 @@
 
 
 
-<h3 align="left">WEB DEV</h3>
+<h3 align="left">WEB DEV:</h3>
 
 ###
 
@@ -47,7 +49,7 @@
 
 ###
 
-<h3 align="left">iOS DEV</h3>
+<h3 align="left">iOS DEV:</h3>
 
 ###
 
@@ -59,7 +61,7 @@
 
 ###
 
-<h3 align="left">BACKEND TOOL</h3>
+<h3 align="left">BACKEND TOOL:</h3>
 
 ###
 
@@ -69,7 +71,7 @@
 
 ###
 
-<h3 align="left">TECHNOLOGIES</h3>
+<h3 align="left">TECHNOLOGIES:</h3>
 
 ###
 
