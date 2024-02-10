@@ -1,11 +1,10 @@
 
-<img src="banner.png" style="width:100%;">
 <h1 align="left">Hey 👋 !  My name is Rudraksha Kushwaha</h1>
 
 
 ###
 
-<p align="left">~ ✌️ A passionate Tech Enthusiast . Always ready to learn new things<br>~ 👀  Currently into WEB DEV , iOS DEV , DSA<br>~ 🌱  Looking to collaborate on Web development projects.<br>~ ❤️ Would love to be in <a href="rudraksha_kushwaha.bio.link" taget="_blank">touch....</a></p>
+<p align="left">~ ✌️ A passionate Tech Enthusiast . Always ready to learn new things<br>~ 👀  Currently into WEB DEV , iOS DEV , DSA<br>~ 🌱  Looking to collaborate on Web development projects.<br>~ ❤️ Would love to be in <a href="https://rudraksha_kushwaha.bio.link" taget="_blank">touch....</a></p>
 
 ###
 
