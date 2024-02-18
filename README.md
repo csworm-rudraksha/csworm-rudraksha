@@ -1,4 +1,4 @@
-<div style="background-color:red;">
+<div>
 
 <img src="banner.png">
 <h1 align="left">Hey 👋 ! </h1>
