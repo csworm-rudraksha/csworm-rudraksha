@@ -9,7 +9,7 @@
   ~ ✌️ A passionate Tech Enthusiast. Always ready to learn new things<br>
   ~ 👀 Currently into WEB DEV, iOS DEV, DSA<br>
   ~ 🌱 Looking to collaborate on Web development projects.<br>
-  ~ ❤️ Would love to be in <a href="https://rudraksha_kushwaha.bio.link" target="_blank">touch....</a>
+  ~ ❤️ Would love to be in <a href="https://rudrakshakushwaha.vercel.app/" target="_blank">touch....</a>
 </p>
 
 ###
