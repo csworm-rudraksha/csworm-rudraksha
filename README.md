@@ -1,7 +1,8 @@
 <div>
 
-<img src="banner.png">
-<h1 align="left">Hey 👋 ! </h1>
+<h2 align="left">Hey 👋 ! </h2>
+<h1>  I am Rudraksha Kushwaha </h1>
+
 
 ###
 
